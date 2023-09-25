@@ -1,0 +1,15 @@
+@import "node_modules/ol/ol.css";
+
+html, body {
+  margin: 0;
+  height: 100%;
+}
+#map {
+  height: 80%;
+  width: 100%;
+}
+
+.ol-mouse-position{
+  position: absolute;
+  top: 45px !important;
+}
