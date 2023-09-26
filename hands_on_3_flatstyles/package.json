@@ -1,0 +1,16 @@
+{
+  "name": "hands_on_1",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.0.4"
+  },
+  "dependencies": {
+    "ol": "^8.1.0",
+    "proj4": "^2.9.0"
+  }
+}
