@@ -42,7 +42,7 @@ btn.addEventListener('click', function() {
 
 const coordinateViewer = new MousePosition({
   projection: "EPSG:4326",
-  coordinateFormat: function(coord){ //only show to decimal places
+  coordinateFormat: function(coord){ //only show two decimal places
     return toStringXY(coord, 2);
   }
 })
