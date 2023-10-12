@@ -2,4 +2,4 @@
 
 - hands_on_1-4 - praktische Übungen während des Workshops
 - examples - Beispiele aus den Folien
-- uebungen - Lösungen für die Übungen 1-3 (folgen)
+- uebungen - Lösungen für die Übungen 1-3
